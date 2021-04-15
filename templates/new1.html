@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+    <head></head>
+    <body>
+        <h1>Recommendations</h1>
+        <table border=1 cellpadding=7>
+            <tr>
+                <th>antecedents</th>
+                <th>consequents</th>
+                <th>support</th>
+                <th>confidence</th>
+                <th>lift</th>
+                <th>leverage</th>
+                <th>conviction</th>
+            </tr>
+            {% for obj in object_list %}
+            <tr>
+                <td>{{obj.antecedents}}</td>
+                <td>{{obj.consequents}}</td>
+                <td>{{obj.support}}</td>
+                <td>{{obj.confidence}}</td>
+                <td>{{obj.lift}}</td>
+                <td>{{obj.leverage}}</td>
+                <td>{{obj.conviction}}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>

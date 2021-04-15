@@ -1,0 +1,81 @@
+04/10/2021 10:54:20 AM Program Starts in Main Function  77 main.py
+04/10/2021 10:56:07 AM Program Starts in Main Function  77 main.py
+04/10/2021 11:01:42 AM Program Starts in Main Function  77 main.py
+04/10/2021 11:28:01 AM Program Starts in Main Function  77 main.py
+04/10/2021 11:28:10 AM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+04/10/2021 11:28:10 AM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+04/10/2021 11:28:11 AM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+04/10/2021 11:28:11 AM Successfully visualised the best review product...... 41 recom_product_corr.py
+04/10/2021 11:28:12 AM Successfully create a Pivot matrix..... 51 recom_product_corr.py
+04/10/2021 11:28:12 AM Successfully filtering out products that have less than 100 reviews.... 80 recom_product_corr.py
+04/10/2021 11:28:12 AM Successfully Recommend based on product correlated with Telephony product.... 81 recom_product_corr.py
+04/10/2021 11:28:12 AM Successfully complete recommendation based on product correlation... 93 recom_product_corr.py
+04/10/2021 12:55:02 PM Program Starts in Main Function  77 main.py
+04/10/2021 01:45:23 PM Program Starts in Main Function  82 main.py
+04/10/2021 01:46:34 PM Program Starts in Main Function  82 main.py
+04/10/2021 01:47:24 PM Program Starts in Main Function  88 main.py
+04/10/2021 01:49:39 PM Program Starts in Main Function  79 main.py
+04/10/2021 01:50:30 PM Program Starts in Main Function  79 main.py
+04/10/2021 01:56:39 PM Program Starts in Main Function  74 main.py
+04/10/2021 02:00:31 PM Program Starts in Main Function  77 main.py
+04/10/2021 02:01:16 PM Program Starts in Main Function  77 main.py
+04/10/2021 03:03:16 PM Program Starts in Main Function  78 main.py
+04/10/2021 03:06:50 PM Program Starts in Main Function  78 main.py
+04/10/2021 03:07:15 PM Program Starts in Main Function  78 main.py
+04/10/2021 03:20:33 PM Program Starts in Main Function  78 main.py
+04/10/2021 03:23:31 PM Program Starts in Main Function  78 main.py
+04/10/2021 03:27:18 PM Program Starts in Main Function  79 main.py
+04/10/2021 03:30:52 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:33:38 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:34:30 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:35:06 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:35:38 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:36:28 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:37:11 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:37:45 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:41:57 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:43:06 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:45:25 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:45:32 PM You have reached at Data Sections... Loading Function start... 9 data_loading_understanding.py
+04/10/2021 03:45:36 PM Successfully Loaded Data from CSV files 25 data_loading_understanding.py
+04/10/2021 03:46:58 PM Program Starts in Main Function  81 main.py
+04/10/2021 03:59:46 PM Program Starts in Main Function  79 main.py
+04/10/2021 04:00:09 PM Program Starts in Main Function  79 main.py
+04/10/2021 09:54:00 PM Program Starts in Main Function  79 main.py
+04/10/2021 09:55:24 PM Program Starts in Main Function  79 main.py
+04/10/2021 09:55:39 PM Program Starts in Main Function  79 main.py
+04/10/2021 09:56:28 PM You have reached at Data Sections... Loading Function start... 9 data_loading_understanding.py
+04/10/2021 09:56:34 PM Successfully Loaded Data from CSV files 25 data_loading_understanding.py
+04/10/2021 09:56:37 PM You have reached at Data Sections... Loading Function start... 9 data_loading_understanding.py
+04/10/2021 09:56:42 PM Successfully Loaded Data from CSV files 25 data_loading_understanding.py
+04/10/2021 09:57:37 PM Read error : name 'pd' is not defined 31 data_loading_understanding.py
+04/10/2021 09:57:37 PM Read error : name 'main' is not defined 31 data_loading_understanding.py
+04/10/2021 09:59:14 PM Program Starts in Main Function  79 main.py
+04/10/2021 10:52:58 PM Program Starts in Main Function  81 main.py
+04/10/2021 10:53:15 PM Program Starts in Main Function  81 main.py
+04/10/2021 10:54:05 PM Program Starts in Main Function  81 main.py
+04/10/2021 10:55:06 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:04:26 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:12:45 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:17:05 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:27:00 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:27:48 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:29:37 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:30:18 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:30:59 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:32:11 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:39:56 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:39:59 PM Successfully reached NLP review 46 nlp_review.py
+04/10/2021 11:40:01 PM Successfully read csv files and data frames created. 57 nlp_review.py
+04/10/2021 11:40:01 PM Successfully handled missing values 84 nlp_review.py
+04/10/2021 11:42:31 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:42:35 PM Successfully reached NLP review 46 nlp_review.py
+04/10/2021 11:42:37 PM Successfully read csv files and data frames created. 57 nlp_review.py
+04/10/2021 11:42:37 PM Successfully handled missing values 84 nlp_review.py
+04/10/2021 11:45:44 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:46:44 PM Successfully reached NLP review 46 nlp_review.py
+04/10/2021 11:46:46 PM Successfully read csv files and data frames created. 57 nlp_review.py
+04/10/2021 11:46:46 PM Successfully handled missing values 84 nlp_review.py
+04/10/2021 11:49:02 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:50:10 PM Program Starts in Main Function  81 main.py
+04/10/2021 11:52:47 PM Program Starts in Main Function  81 main.py

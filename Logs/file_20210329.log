@@ -1,0 +1,16 @@
+03/29/2021 12:31:55 PM Program Starts in Main Function  87 main.py
+03/29/2021 12:31:59 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+03/29/2021 12:32:00 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+03/29/2021 12:32:00 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+03/29/2021 12:32:01 PM Successfully create a Pivot matrix..... 35 recom_price.py
+03/29/2021 12:32:01 PM created the sparse matrix 39 recom_price.py
+03/29/2021 12:32:01 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+03/29/2021 12:32:01 PM Successfully choose a random product.... 52 recom_price.py
+03/29/2021 12:32:01 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+03/29/2021 12:32:01 PM Successfully loaded files for training.... 73 recom_price.py
+03/29/2021 12:32:02 PM Successfully predicted train and test score of recommendation.... 102 recom_price.py
+03/29/2021 12:32:02 PM Successfully complete recommendation based on price... 104 recom_price.py
+03/29/2021 02:17:52 PM Program Starts in Main Function  87 main.py
+03/29/2021 02:22:57 PM Program Starts in Main Function  91 main.py
+03/29/2021 02:25:23 PM Program Starts in Main Function  93 main.py
+03/29/2021 03:16:02 PM Program Starts in Main Function  94 main.py

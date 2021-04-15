@@ -1,0 +1,302 @@
+[
+    {
+        "": "0",
+        "bigrams": "super recomendo",
+        "frequency": "681",
+        "english_translation": "super recommend "
+    },
+    {
+        "": "1",
+        "bigrams": "recebi produto",
+        "frequency": "131",
+        "english_translation": "I received a product "
+    },
+    {
+        "": "2",
+        "bigrams": "timo produto",
+        "frequency": "103",
+        "english_translation": "Timo Product "
+    },
+    {
+        "": "3",
+        "bigrams": "super recomendado",
+        "frequency": "103",
+        "english_translation": "super recommended "
+    },
+    {
+        "": "4",
+        "bigrams": "produto entregue",
+        "frequency": "103",
+        "english_translation": "product delivered "
+    },
+    {
+        "": "5",
+        "bigrams": "entrega pida",
+        "frequency": "92",
+        "english_translation": "delivery ask for "
+    },
+    {
+        "": "6",
+        "bigrams": "bom produto",
+        "frequency": "76",
+        "english_translation": "good product "
+    },
+    {
+        "": "7",
+        "bigrams": "tudo certo",
+        "frequency": "76",
+        "english_translation": "all right "
+    },
+    {
+        "": "8",
+        "bigrams": "produto errado",
+        "frequency": "74",
+        "english_translation": "wrong product "
+    },
+    {
+        "": "9",
+        "bigrams": "produto bom",
+        "frequency": "66",
+        "english_translation": "good product "
+    },
+    {
+        "": "10",
+        "bigrams": "produto defeito",
+        "frequency": "51",
+        "english_translation": "product "
+    },
+    {
+        "": "11",
+        "bigrams": "antes prazo",
+        "frequency": "48",
+        "english_translation": "before term "
+    },
+    {
+        "": "12",
+        "bigrams": "rel gio",
+        "frequency": "46",
+        "english_translation": "relia "
+    },
+    {
+        "": "13",
+        "bigrams": "tudo ok",
+        "frequency": "45",
+        "english_translation": "everything is OK "
+    },
+    {
+        "": "14",
+        "bigrams": "parab ns",
+        "frequency": "38",
+        "english_translation": "parab ns "
+    },
+    {
+        "": "15",
+        "bigrams": "excelente produto",
+        "frequency": "37",
+        "english_translation": "excellent product "
+    },
+    {
+        "": "16",
+        "bigrams": "produto veio",
+        "frequency": "36",
+        "english_translation": "product came "
+    },
+    {
+        "": "17",
+        "bigrams": "entrega super",
+        "frequency": "33",
+        "english_translation": "super delivery "
+    },
+    {
+        "": "18",
+        "bigrams": "super pida",
+        "frequency": "30",
+        "english_translation": "Super Ask "
+    },
+    {
+        "": "19",
+        "bigrams": "produto diferente",
+        "frequency": "28",
+        "english_translation": "different product "
+    },
+    {
+        "": "20",
+        "bigrams": "nao recebi",
+        "frequency": "27",
+        "english_translation": "not received "
+    },
+    {
+        "": "21",
+        "bigrams": "otimo produto",
+        "frequency": "27",
+        "english_translation": "Great product "
+    },
+    {
+        "": "22",
+        "bigrams": "entrega rapida",
+        "frequency": "26",
+        "english_translation": "fast delivery "
+    },
+    {
+        "": "23",
+        "bigrams": "atraso entrega",
+        "frequency": "26",
+        "english_translation": "delay delivery "
+    },
+    {
+        "": "24",
+        "bigrams": "produto excelente",
+        "frequency": "25",
+        "english_translation": "excellent product "
+    },
+    {
+        "": "25",
+        "bigrams": "nao recomendo",
+        "frequency": "25",
+        "english_translation": "I do not recommend "
+    },
+    {
+        "": "26",
+        "bigrams": "confi vel",
+        "frequency": "23",
+        "english_translation": "trust or "
+    },
+    {
+        "": "27",
+        "bigrams": "ainda recebi",
+        "frequency": "23",
+        "english_translation": "I still received "
+    },
+    {
+        "": "28",
+        "bigrams": "tima loja",
+        "frequency": "21",
+        "english_translation": "Tima Shop "
+    },
+    {
+        "": "29",
+        "bigrams": "produto chegou",
+        "frequency": "21",
+        "english_translation": "Product arrived "
+    },
+    {
+        "": "30",
+        "bigrams": "entrega prazo",
+        "frequency": "21",
+        "english_translation": "delivery time "
+    },
+    {
+        "": "31",
+        "bigrams": "recomendo loja",
+        "frequency": "21",
+        "english_translation": "Recommend Store "
+    },
+    {
+        "": "32",
+        "bigrams": "boa compra",
+        "frequency": "21",
+        "english_translation": "good bargain "
+    },
+    {
+        "": "33",
+        "bigrams": "tima compra",
+        "frequency": "20",
+        "english_translation": "Tima Buy "
+    },
+    {
+        "": "34",
+        "bigrams": "recomendo sim",
+        "frequency": "20",
+        "english_translation": "Recommend yes "
+    },
+    {
+        "": "35",
+        "bigrams": "entrega incompleta",
+        "frequency": "19",
+        "english_translation": "incomplete delivery "
+    },
+    {
+        "": "36",
+        "bigrams": "recomendo todos",
+        "frequency": "18",
+        "english_translation": "Recommend all "
+    },
+    {
+        "": "37",
+        "bigrams": "chegou antes",
+        "frequency": "18",
+        "english_translation": "arrived before "
+    },
+    {
+        "": "38",
+        "bigrams": "entrega antes",
+        "frequency": "17",
+        "english_translation": "Delivery before "
+    },
+    {
+        "": "39",
+        "bigrams": "produto qualidade",
+        "frequency": "17",
+        "english_translation": "product quality "
+    },
+    {
+        "": "40",
+        "bigrams": "excelente compra",
+        "frequency": "17",
+        "english_translation": "excellent buy "
+    },
+    {
+        "": "41",
+        "bigrams": "produto recebido",
+        "frequency": "16",
+        "english_translation": "product received "
+    },
+    {
+        "": "42",
+        "bigrams": "demora entrega",
+        "frequency": "16",
+        "english_translation": "delivery delivery "
+    },
+    {
+        "": "43",
+        "bigrams": "produto ok",
+        "frequency": "16",
+        "english_translation": "product ok "
+    },
+    {
+        "": "44",
+        "bigrams": "boa loja",
+        "frequency": "16",
+        "english_translation": "store "
+    },
+    {
+        "": "45",
+        "bigrams": "nao entregue",
+        "frequency": "15",
+        "english_translation": "do not deliver "
+    },
+    {
+        "": "46",
+        "bigrams": "entregue prazo",
+        "frequency": "15",
+        "english_translation": "deliver deadline "
+    },
+    {
+        "": "47",
+        "bigrams": "pedido incompleto",
+        "frequency": "15",
+        "english_translation": "incomplete request "
+    },
+    {
+        "": "48",
+        "bigrams": "tudo perfeito",
+        "frequency": "14",
+        "english_translation": "everything perfect "
+    },
+    {
+        "": "49",
+        "bigrams": "boa qualidade",
+        "frequency": "14",
+        "english_translation": "good quality "
+    }
+]

@@ -1,0 +1,6 @@
+Model,F1_Score,AUC_Score,Accuracy
+ Naive Bayes ,86%,69.4%,77%
+Logistic Regression,92%,69.9%,86%
+Decision Tree,80%,71.3%,70%
+Random Forest,90%,71.8%,83%
+ GBDT**(BEST),92%,74.5%,87%

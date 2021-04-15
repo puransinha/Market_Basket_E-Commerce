@@ -1,0 +1,68 @@
+03/30/2021 10:30:32 PM Program Starts in Main Function  94 main.py
+03/30/2021 10:30:38 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+03/30/2021 10:30:39 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+03/30/2021 10:30:39 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+03/30/2021 10:30:39 PM Successfully visualised the best review product...... 40 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully create a Pivot matrix..... 50 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully  created correlations between two pandas series..... 65 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 71 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully filtering out products that have less than 100 reviews.... 86 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully Recommend based on product correlated with bed bath table product..... 87 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully filtering out products that have less than 100 reviews.... 98 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully Recommend based on product correlated with Telephony product.... 99 recom_product_corr.py
+03/30/2021 10:30:40 PM Successfully complete recommendation based on product correlation... 111 recom_product_corr.py
+03/30/2021 10:32:27 PM Program Starts in Main Function  94 main.py
+03/30/2021 10:32:31 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+03/30/2021 10:32:32 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+03/30/2021 10:32:32 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+03/30/2021 10:32:33 PM Successfully create a Pivot matrix..... 35 recom_price.py
+03/30/2021 10:32:33 PM created the sparse matrix 39 recom_price.py
+03/30/2021 10:32:33 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+03/30/2021 10:32:33 PM Successfully choose a random product.... 52 recom_price.py
+03/30/2021 10:32:33 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+03/30/2021 10:32:33 PM Successfully loaded files for training.... 73 recom_price.py
+03/30/2021 10:32:34 PM Successfully predicted train and test score of recommendation.... 102 recom_price.py
+03/30/2021 10:32:34 PM Successfully complete recommendation based on price... 104 recom_price.py
+03/30/2021 10:37:06 PM Program Starts in Main Function  94 main.py
+03/30/2021 10:37:11 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+03/30/2021 10:37:11 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+03/30/2021 10:37:12 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+03/30/2021 10:37:12 PM Successfully visualised the best review product...... 40 recom_product_corr.py
+03/30/2021 10:37:12 PM Successfully create a Pivot matrix..... 50 recom_product_corr.py
+03/30/2021 10:37:13 PM Successfully  created correlations between two pandas series..... 65 recom_product_corr.py
+03/30/2021 10:37:13 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 72 recom_product_corr.py
+03/30/2021 10:37:13 PM Successfully filtering out products that have less than 100 reviews.... 88 recom_product_corr.py
+03/30/2021 10:37:13 PM Successfully Recommend based on product correlated with bed bath table product..... 89 recom_product_corr.py
+03/30/2021 10:37:13 PM Successfully filtering out products that have less than 100 reviews.... 100 recom_product_corr.py
+03/30/2021 10:37:13 PM Successfully Recommend based on product correlated with Telephony product.... 101 recom_product_corr.py
+03/30/2021 10:37:13 PM Successfully complete recommendation based on product correlation... 113 recom_product_corr.py
+03/30/2021 10:44:39 PM Program Starts in Main Function  94 main.py
+03/30/2021 10:44:43 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+03/30/2021 10:44:44 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+03/30/2021 10:44:44 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+03/30/2021 10:46:34 PM Program Starts in Main Function  94 main.py
+03/30/2021 10:46:37 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+03/30/2021 10:46:38 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+03/30/2021 10:46:38 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+03/30/2021 10:46:38 PM Successfully visualised the best review product...... 41 recom_product_corr.py
+03/30/2021 10:46:38 PM Successfully create a Pivot matrix..... 51 recom_product_corr.py
+03/30/2021 10:46:39 PM Successfully  created correlations between two pandas series..... 66 recom_product_corr.py
+03/30/2021 10:46:39 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 74 recom_product_corr.py
+03/30/2021 10:46:39 PM Successfully filtering out products that have less than 100 reviews.... 90 recom_product_corr.py
+03/30/2021 10:46:39 PM Successfully Recommend based on product correlated with bed bath table product..... 91 recom_product_corr.py
+03/30/2021 10:46:39 PM Successfully filtering out products that have less than 100 reviews.... 102 recom_product_corr.py
+03/30/2021 10:46:39 PM Successfully Recommend based on product correlated with Telephony product.... 103 recom_product_corr.py
+03/30/2021 10:46:39 PM Successfully complete recommendation based on product correlation... 115 recom_product_corr.py
+03/30/2021 11:03:44 PM Program Starts in Main Function  84 main.py
+03/30/2021 11:12:21 PM Program Starts in Main Function  84 main.py
+03/30/2021 11:19:37 PM Program Starts in Main Function  88 main.py
+03/30/2021 11:22:16 PM Running on http://127.0.0.1:8050/ 1816 dash.py
+03/30/2021 11:22:16 PM Debugger PIN: 242-803-901 1827 dash.py
+03/30/2021 11:22:19 PM Program Starts in Main Function  88 main.py
+03/30/2021 11:40:37 PM Program Starts in Main Function  80 main.py
+03/30/2021 11:40:42 PM You have reached at Data Sections... Loading Function start... 9 data_loading_understanding.py
+03/30/2021 11:40:57 PM Successfully Loaded Data from CSV files 25 data_loading_understanding.py
+03/30/2021 11:45:41 PM Program Starts in Main Function  82 main.py
+03/30/2021 11:46:48 PM Program Starts in Main Function  82 main.py
+03/30/2021 11:49:39 PM Program Starts in Main Function  82 main.py
+03/30/2021 11:50:24 PM Program Starts in Main Function  82 main.py

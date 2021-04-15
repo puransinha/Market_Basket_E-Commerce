@@ -1,0 +1,52 @@
+[
+    {
+        "product_category_name_english": "baby",
+        "Correlation": "0.9999999999999999",
+        "num of reviews": "3032"
+    },
+    {
+        "product_category_name_english": "bed_bath_table",
+        "Correlation": "1.0",
+        "num of reviews": "10647"
+    },
+    {
+        "product_category_name_english": "cool_stuff",
+        "Correlation": "1.0",
+        "num of reviews": "3847"
+    },
+    {
+        "product_category_name_english": "furniture_decor",
+        "Correlation": "1.0",
+        "num of reviews": "7881"
+    },
+    {
+        "product_category_name_english": "furniture_living_room",
+        "Correlation": "1.0",
+        "num of reviews": "480"
+    },
+    {
+        "product_category_name_english": "garden_tools",
+        "Correlation": "0.9999999999999998",
+        "num of reviews": "4277"
+    },
+    {
+        "product_category_name_english": "health_beauty",
+        "Correlation": "0.9999999999999999",
+        "num of reviews": "9396"
+    },
+    {
+        "product_category_name_english": "home_confort",
+        "Correlation": "0.9999999999999999",
+        "num of reviews": "443"
+    },
+    {
+        "product_category_name_english": "housewares",
+        "Correlation": "1.0",
+        "num of reviews": "6875"
+    },
+    {
+        "product_category_name_english": "office_furniture",
+        "Correlation": "1.0",
+        "num of reviews": "1703"
+    }
+]

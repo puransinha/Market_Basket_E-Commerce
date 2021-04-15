@@ -1,0 +1,129 @@
+04/09/2021 05:17:32 PM Program Starts in Main Function  76 main.py
+04/09/2021 05:17:37 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+04/09/2021 05:17:38 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+04/09/2021 05:17:38 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+04/09/2021 05:17:39 PM Successfully create a Pivot matrix..... 35 recom_price.py
+04/09/2021 05:17:39 PM created the sparse matrix 39 recom_price.py
+04/09/2021 05:17:39 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+04/09/2021 05:17:39 PM Successfully choose a random product.... 52 recom_price.py
+04/09/2021 05:17:39 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+04/09/2021 05:17:40 PM Successfully loaded files for training.... 73 recom_price.py
+04/09/2021 05:18:57 PM Program Starts in Main Function  76 main.py
+04/09/2021 05:20:36 PM Program Starts in Main Function  76 main.py
+04/09/2021 08:55:41 PM Program Starts in Main Function  76 main.py
+04/09/2021 08:55:44 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+04/09/2021 08:55:45 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+04/09/2021 08:55:45 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+04/09/2021 08:55:46 PM Successfully create a Pivot matrix..... 35 recom_price.py
+04/09/2021 08:55:46 PM created the sparse matrix 39 recom_price.py
+04/09/2021 08:55:46 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+04/09/2021 08:55:46 PM Successfully choose a random product.... 52 recom_price.py
+04/09/2021 08:55:46 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+04/09/2021 08:55:46 PM Successfully loaded files for training.... 73 recom_price.py
+04/09/2021 09:00:08 PM Program Starts in Main Function  76 main.py
+04/09/2021 09:00:13 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+04/09/2021 09:00:13 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+04/09/2021 09:00:13 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+04/09/2021 09:00:14 PM Successfully create a Pivot matrix..... 35 recom_price.py
+04/09/2021 09:00:14 PM created the sparse matrix 39 recom_price.py
+04/09/2021 09:00:14 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+04/09/2021 09:00:14 PM Successfully choose a random product.... 52 recom_price.py
+04/09/2021 09:00:14 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+04/09/2021 09:00:14 PM Successfully loaded files for training.... 73 recom_price.py
+04/09/2021 09:01:15 PM Program Starts in Main Function  76 main.py
+04/09/2021 09:01:18 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+04/09/2021 09:01:19 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+04/09/2021 09:01:19 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+04/09/2021 09:01:20 PM Successfully create a Pivot matrix..... 35 recom_price.py
+04/09/2021 09:01:20 PM created the sparse matrix 39 recom_price.py
+04/09/2021 09:01:20 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+04/09/2021 09:01:20 PM Successfully choose a random product.... 52 recom_price.py
+04/09/2021 09:01:20 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+04/09/2021 09:01:20 PM Successfully loaded files for training.... 73 recom_price.py
+04/09/2021 09:01:21 PM Successfully predicted train and test score of recommendation.... 103 recom_price.py
+04/09/2021 09:01:21 PM Successfully complete recommendation based on price... 105 recom_price.py
+04/09/2021 09:02:47 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+04/09/2021 09:02:47 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+04/09/2021 09:02:48 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+04/09/2021 09:02:48 PM Successfully create a Pivot matrix..... 35 recom_price.py
+04/09/2021 09:02:48 PM created the sparse matrix 39 recom_price.py
+04/09/2021 09:02:48 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+04/09/2021 09:02:48 PM Successfully choose a random product.... 52 recom_price.py
+04/09/2021 09:02:48 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+04/09/2021 09:02:48 PM Successfully loaded files for training.... 73 recom_price.py
+04/09/2021 09:02:49 PM Successfully predicted train and test score of recommendation.... 103 recom_price.py
+04/09/2021 09:02:49 PM Successfully complete recommendation based on price... 105 recom_price.py
+04/09/2021 09:03:34 PM Program Starts in Main Function  76 main.py
+04/09/2021 09:03:37 PM Successfully reaches price based recommendation system....... 11 recom_price.py
+04/09/2021 09:03:37 PM Successfully Loaded Data from Combined CSV files 13 recom_price.py
+04/09/2021 09:03:38 PM Successfully Loaded Data use columns from CSV files  21 recom_price.py
+04/09/2021 09:03:38 PM Successfully create a Pivot matrix..... 35 recom_price.py
+04/09/2021 09:03:38 PM created the sparse matrix 39 recom_price.py
+04/09/2021 09:03:38 PM Successfully fit the model by NearestNeighbour..... 43 recom_price.py
+04/09/2021 09:03:38 PM Successfully choose a random product.... 52 recom_price.py
+04/09/2021 09:03:38 PM Successfully give 5 nearest distance product get recommended based on prices.... 62 recom_price.py
+04/09/2021 09:03:38 PM Successfully loaded files for training.... 73 recom_price.py
+04/09/2021 09:03:40 PM Successfully predicted train and test score of recommendation.... 103 recom_price.py
+04/09/2021 09:03:40 PM Successfully complete recommendation based on price... 105 recom_price.py
+04/09/2021 09:06:57 PM Program Starts in Main Function  76 main.py
+04/09/2021 09:06:59 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+04/09/2021 09:07:00 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+04/09/2021 09:07:00 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+04/09/2021 09:07:00 PM Successfully visualised the best review product...... 41 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully create a Pivot matrix..... 51 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully  created correlations between two pandas series..... 66 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 74 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully filtering out products that have less than 100 reviews.... 90 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully Recommend based on product correlated with bed bath table product..... 91 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully filtering out products that have less than 100 reviews.... 104 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully Recommend based on product correlated with Telephony product.... 105 recom_product_corr.py
+04/09/2021 09:07:01 PM Successfully complete recommendation based on product correlation... 117 recom_product_corr.py
+04/09/2021 10:24:06 PM Program Starts in Main Function  76 main.py
+04/09/2021 10:24:11 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+04/09/2021 10:24:12 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+04/09/2021 10:24:12 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+04/09/2021 10:24:12 PM Successfully visualised the best review product...... 41 recom_product_corr.py
+04/09/2021 10:24:12 PM Successfully create a Pivot matrix..... 51 recom_product_corr.py
+04/09/2021 10:24:13 PM Successfully  created correlations between two pandas series..... 66 recom_product_corr.py
+04/09/2021 10:24:13 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 74 recom_product_corr.py
+04/09/2021 10:24:13 PM Successfully filtering out products that have less than 100 reviews.... 90 recom_product_corr.py
+04/09/2021 10:24:13 PM Successfully Recommend based on product correlated with bed bath table product..... 91 recom_product_corr.py
+04/09/2021 10:24:13 PM Successfully filtering out products that have less than 100 reviews.... 104 recom_product_corr.py
+04/09/2021 10:24:13 PM Successfully Recommend based on product correlated with Telephony product.... 105 recom_product_corr.py
+04/09/2021 10:24:13 PM Successfully complete recommendation based on product correlation... 117 recom_product_corr.py
+04/09/2021 10:41:09 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+04/09/2021 10:41:09 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+04/09/2021 10:41:09 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully visualised the best review product...... 41 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully create a Pivot matrix..... 51 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully  created correlations between two pandas series..... 66 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 74 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully filtering out products that have less than 100 reviews.... 90 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully Recommend based on product correlated with bed bath table product..... 91 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully filtering out products that have less than 100 reviews.... 104 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully Recommend based on product correlated with Telephony product.... 105 recom_product_corr.py
+04/09/2021 10:41:10 PM Successfully complete recommendation based on product correlation... 117 recom_product_corr.py
+04/09/2021 10:42:02 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+04/09/2021 10:42:02 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully visualised the best review product...... 41 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully create a Pivot matrix..... 51 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully  created correlations between two pandas series..... 66 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 74 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully filtering out products that have less than 100 reviews.... 90 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully Recommend based on product correlated with bed bath table product..... 91 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully filtering out products that have less than 100 reviews.... 104 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully Recommend based on product correlated with Telephony product.... 105 recom_product_corr.py
+04/09/2021 10:42:03 PM Successfully complete recommendation based on product correlation... 117 recom_product_corr.py
+04/09/2021 10:53:42 PM Successfully reaches product based recommendation system....... 11 recom_product_corr.py
+04/09/2021 10:53:43 PM Successfully Loaded Data from Combined CSV files...... 15 recom_product_corr.py
+04/09/2021 10:53:43 PM Successfully Loaded Data use columns from CSV files  18 recom_product_corr.py
+04/09/2021 10:53:43 PM Successfully visualised the best review product...... 41 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully create a Pivot matrix..... 51 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully  created correlations between two pandas series..... 66 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully clean this by removing NaN values and using a DataFrame instead of a series..... 74 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully filtering out products that have less than 100 reviews.... 90 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully Recommend based on product correlated with bed bath table product..... 91 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully filtering out products that have less than 100 reviews.... 104 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully Recommend based on product correlated with Telephony product.... 105 recom_product_corr.py
+04/09/2021 10:53:44 PM Successfully complete recommendation based on product correlation... 117 recom_product_corr.py
