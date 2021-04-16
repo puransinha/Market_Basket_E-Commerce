@@ -9,30 +9,21 @@
 # COPY . .
 # CMD ["python","app.py"]
 
-# FROM python:3.6
+FROM python:3.6
 
-# USER root
+USER root
 
-# WORKDIR /app
-
-# ADD . /app
-
-# RUN pip install -r requirements.txt
-
-# EXPOSE 8050
-
-# ENV FLASK_APP=app.py
-# ENV FLASK_RUN_HOST=0.0.0.0
-# # ENV NAME World
-
-# CMD ["python", "app.py"]
-
-FROM python:3
 WORKDIR /app
+
 ADD . /app
 
 RUN pip install -r requirements.txt
 
 EXPOSE 8050
 
+ENV FLASK_APP=app.py
+ENV FLASK_RUN_HOST=0.0.0.0
+# ENV NAME World
+
 CMD ["python", "app.py"]
+
